@@ -4,7 +4,7 @@
 
 Welcome to the GitHub repository for my personal portfolio website. This site was built from the ground up to serve as a dynamic, modern resume and a showcase of my skills as a Lead Software Engineer. The primary goal is to provide a comprehensive overview of my professional experience, technical capabilities, and key achievements for potential employers.
 
-**Live Site:** [**https://jacobcarver.dev**](https://jacobcarver.dev)
+**Live Site:** [**https://jacob-carver.vercel.app**](https://jacob-carver.vercel.app)
 ---
 
 ## ✨ Key Features
