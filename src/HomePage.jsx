@@ -125,7 +125,7 @@ export default function HomePage() {
             A proven Lead Software Engineer with over 9 years of success leading teams and delivering robust, full-stack applications. My leadership was instrumental in securing a <strong>multi-million-dollar contract renewal</strong>, and I have hands-on experience deploying and maintaining services on <strong>AWS and Azure</strong>. I thrive on mentoring developers and bridging the gap between complex technical challenges and business objectives.
           </p>
           <div className="mt-8 flex justify-center gap-4">
-            <a href="/Jacob_Carver_Resume_20250730.pdf" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-6 py-3 bg-indigo-600 text-white font-semibold rounded-lg shadow-md hover:bg-indigo-700 transition-all">
+            <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-6 py-3 bg-indigo-600 text-white font-semibold rounded-lg shadow-md hover:bg-indigo-700 transition-all">
               <FaFilePdf /> Download Resume
             </a>
             <a href="https://github.com/carve084" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-6 py-3 bg-white text-gray-700 font-semibold rounded-lg shadow-md hover:bg-gray-100 border border-gray-300 transition-all">
